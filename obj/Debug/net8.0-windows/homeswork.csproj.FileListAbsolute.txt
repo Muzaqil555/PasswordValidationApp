@@ -1,0 +1,16 @@
+C:\Users\FA507NU\source\repos\homeswork\homeswork\bin\Debug\net8.0-windows\homeswork.exe
+C:\Users\FA507NU\source\repos\homeswork\homeswork\bin\Debug\net8.0-windows\homeswork.deps.json
+C:\Users\FA507NU\source\repos\homeswork\homeswork\bin\Debug\net8.0-windows\homeswork.runtimeconfig.json
+C:\Users\FA507NU\source\repos\homeswork\homeswork\bin\Debug\net8.0-windows\homeswork.dll
+C:\Users\FA507NU\source\repos\homeswork\homeswork\bin\Debug\net8.0-windows\homeswork.pdb
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\homeswork.Form1.resources
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\homeswork.csproj.GenerateResource.cache
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\homeswork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\homeswork.AssemblyInfoInputs.cache
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\homeswork.AssemblyInfo.cs
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\homeswork.csproj.CoreCompileInputs.cache
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\homeswork.dll
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\refint\homeswork.dll
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\homeswork.pdb
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\homeswork.genruntimeconfig.cache
+C:\Users\FA507NU\source\repos\homeswork\homeswork\obj\Debug\net8.0-windows\ref\homeswork.dll
